@@ -2,5 +2,5 @@
   <input type="hidden" name="userId" value="7a1472dc766af65274f8806aa336e4c70a7b0ef5" />
   <input type="submit" />
   
-  </form>
-<script> document.csrfForm.submit(); </script>
+ </form>
+ <script> document.csrfForm.submit(); </script>
